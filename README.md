@@ -4,7 +4,7 @@
 
 ---
 
-🎓  **Student at *42 Nice***
+**Student at *42 Nice***
 
 [![asebrech's 42 stats](https://badge42.herokuapp.com/api/stats/asebrech)](https://github.com/JaeSeoKim/badge42)
 
