@@ -8,9 +8,9 @@
 
 [![asebrech's 42 stats](https://badge42.herokuapp.com/api/stats/asebrech)](https://github.com/JaeSeoKim/badge42)
 
-**I'm a *STAR WARS* and *HALO* fan ! ***
+** I'm a *STAR WARS* and *HALO* fan ! ***
 
-**I also like the *apple* brand ***
+** I also like the *apple* brand ***
 
 ** THIS IS THE WAY **
 
