@@ -1,4 +1,3 @@
-
 ### Hello there
 
 ![42](https://badgen.net/badge/Born2Code/asebrech/green?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
@@ -9,7 +8,7 @@
 
 [![asebrech's 42 stats](https://badge42.herokuapp.com/api/stats/asebrech)](https://github.com/JaeSeoKim/badge42)
 
-![d9yb2qq-08aea04c-d12b-4f7d-9872-21eeeac34256](https://user-images.githubusercontent.com/70278250/121676144-96ed7300-cab4-11eb-9695-7d43d214e1a0.png)**I'm a *STAR WARS* and *HALO* fan !**
+**I'm a *STAR WARS* and *HALO* fan !**
 
 **I also like the *apple* brand**
 
