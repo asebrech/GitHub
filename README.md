@@ -8,7 +8,7 @@
 
 [![asebrech's 42 stats](https://badge42.herokuapp.com/api/stats/asebrech)](https://github.com/JaeSeoKim/badge42)
 
-![1200px-Galactic_Republic svg](https://user-images.githubusercontent.com/70278250/121676003-686f9800-cab4-11eb-9da5-aaa643f89ebf.png)**I'm a *STAR WARS* and *HALO* fan !**
+**I'm a *STAR WARS* and *HALO* fan !**
 
 **I also like the *apple* brand**
 
